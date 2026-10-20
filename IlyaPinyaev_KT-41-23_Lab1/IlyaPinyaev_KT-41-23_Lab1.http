@@ -1,0 +1,6 @@
+@IlyaPinyaev_KT_41_23_Lab1_HostAddress = http://localhost:5096
+
+GET {{IlyaPinyaev_KT_41_23_Lab1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
